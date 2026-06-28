@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "data": {
+    "slug": "github",
+    "name": "GitHub",
+    "category": "cloud",
+    "logo_url": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com&size=128",
+    "status": "operational",
+    "official_indicator": null,
+    "report_count_1h": 0,
+    "report_count_24h": 0,
+    "status_page_url": "https://isitdownstatus.com/en/status/github",
+    "updated_at": "2026-06-28T17:49:45.193Z"
+  }
+}
